@@ -17,4 +17,4 @@
 * User is able to clear any saved entries by clicking the clear button at the bottom of the page.
 
 ## Links:
-[Schedule Your Day](https://andal-a.github.io/Work-Day-Scheduler/)
+[Schedule Your Day](https://andal-a.github.io/Daily_Planner/)

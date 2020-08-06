@@ -12,8 +12,8 @@
 ## Features:
 * Time slots are color coded:
     * Grey idicates time slots that are past the current time.
-    * Green indicates slots in the present time.
-    * Red indicates slots in the future.
+    * Red indicates time slot for the present time.
+    * Green indicates slots in the future.
 * User is able to clear any saved entries by clicking the clear button at the bottom of the page.
 
 ## Links:
